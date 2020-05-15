@@ -1,0 +1,101 @@
+ul.header li {
+  display:inline;
+}
+
+ul.footer li {
+  display:inline;
+}
+
+#leftheader {
+  position: absolute;
+  left: 10px;
+}
+
+#uk {
+  position: absolute;
+  left: 0px;
+  bottom: 40px;
+  font-size: 15px;
+  color: #5F6368;
+  display: block;
+  background: #f2f2f2;
+  line-height: 40px;
+  min-width: 100%;
+  border-top: 1px solid #e4e4e4;
+}
+
+#leftfooter {
+  font-size: 14px;
+  font-family: arial, sans-serif;
+  padding: 0px, 0px, 0px, 27px;
+  color: #5F6368
+  display: block;
+  background: #f2f2f2;
+  line-height: 40px;
+  min-width: 100%;
+  border-top: 1px solid #e4e4e4;
+  position: absolute;
+  left: 10px;
+  bottom: 0px;
+}
+
+#rightheader {
+  position: absolute;
+  right: 10px;
+}
+
+#rightfooter {
+  position: absolute;
+  right: 0px;
+  bottom: 10px;
+}
+
+#hplogo {
+  padding-top: 109px;
+  position: justify;
+}
+
+#search {
+  padding-top: 15px;
+}
+
+.button {
+  position: relative;
+  top: 10px;
+  padding: 0px, 16px;
+  border: 1px;
+  border-radius: 4px;
+  color: #5F6368;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  cursor: pointer;
+  margin: 11px, 4px;
+}
+
+#covid {
+  position: relative;
+  top: 30px;
+  color: #1A0DAB;
+}
+
+a {
+  color: #000;
+  opacity: 0.75;
+  display: inline-block;
+  padding-left: 15px;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: arial, sans-serif;
+  }
+
+a:hover {
+  text-decoration: underline;
+}
+
+#searchbar {
+ width: 582px;
+ border-radius: 24px;
+ border: 1px solid #dfe1e5;
+ height: 44px;
+}
